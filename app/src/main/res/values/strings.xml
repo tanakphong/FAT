@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FAT</string>
+    <string name="btnR1C1">A</string>
+    <string name="btnR1C2">B</string>
+    <string name="btnR1C3">C</string>
+    <string name="btnR1C4">D</string>
+    <string name="btnR2C1">1</string>
+    <string name="btnR2C2">2</string>
+    <string name="btnR2C3">3</string>
+    <string name="btnR2C4">E</string>
+    <string name="btnR3C1">4</string>
+    <string name="btnR3C2">5</string>
+    <string name="btnR3C3">6</string>
+    <string name="btnR3C4">F</string>
+    <string name="btnR4C1">7</string>
+    <string name="btnR4C2">8</string>
+    <string name="btnR4C3">9</string>
+    <string name="btnR4C4">I</string>
+    <string name="btnR5C1">0</string>
+    <string name="btnR5C2">.</string>
+    <string name="btnR5C3">K</string>
+    <string name="btnR5C4">J</string>
+    <string name="txtR1">Row 1</string>
+    <string name="txtR2">Row 2</string>
+    <string name="txtR3">Row 3</string>
+    <string name="txtR4">Row 4</string>
+</resources>

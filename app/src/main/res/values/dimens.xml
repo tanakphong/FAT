@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="disp_margin">8dp</dimen>
+    <dimen name="disp_text_size">20sp</dimen>
+    <dimen name="btn_text_size">30sp</dimen>
+    <dimen name="delimiter_line_size">2sp</dimen>
+</resources>
